@@ -1,0 +1,12 @@
+c:\users\raquel\documents\visual studio 2013\Projects\Practica1\Practica1\bin\Debug\Practica1.exe.config
+c:\users\raquel\documents\visual studio 2013\Projects\Practica1\Practica1\bin\Debug\Practica1.exe
+c:\users\raquel\documents\visual studio 2013\Projects\Practica1\Practica1\bin\Debug\Practica1.pdb
+c:\users\raquel\documents\visual studio 2013\Projects\Practica1\Practica1\bin\Debug\Practica1.xml
+c:\users\raquel\documents\visual studio 2013\Projects\Practica1\Practica1\obj\Debug\Practica1.Form1.resources
+c:\users\raquel\documents\visual studio 2013\Projects\Practica1\Practica1\obj\Debug\Practica1.Resources.resources
+c:\users\raquel\documents\visual studio 2013\Projects\Practica1\Practica1\obj\Debug\Practica1.vbproj.GenerateResource.Cache
+c:\users\raquel\documents\visual studio 2013\Projects\Practica1\Practica1\obj\Debug\Practica1.exe
+c:\users\raquel\documents\visual studio 2013\Projects\Practica1\Practica1\obj\Debug\Practica1.xml
+c:\users\raquel\documents\visual studio 2013\Projects\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Users\Raquel\documents\visual studio 2013\Projects\Practica1\Practica1\obj\Debug\Practica1.Resource1.resources
+C:\Users\Raquel\documents\visual studio 2013\Projects\Practica1\Practica1\obj\Debug\Practica1.vbprojResolveAssemblyReference.cache
